@@ -11,7 +11,7 @@ This is a solution for the "Clone the Card – HTML & CSS Remix" challenge. The 
 
 ## 📷 Screenshot
 
-![Product Card Screenshot](cycle.jpg)
+![Product Card Screenshot](product_card.jpg)
 
 ## 📄 Description
 
