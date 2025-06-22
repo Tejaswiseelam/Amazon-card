@@ -3,7 +3,7 @@
 This is a solution for the "Clone the Card – HTML & CSS Remix" challenge. The goal was to recreate a product card from Amazon using **only HTML and CSS**.
 
 ## 🔗 Live Demo
-[Click here to view the product card](https://your-live-demo-link.com)  
+[Click here to view the product card](https://tejaswiseelam.github.io/Amazon-card/)  
 
 ## 🛠️ Tech Stack
 - HTML
